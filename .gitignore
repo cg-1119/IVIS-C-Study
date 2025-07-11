@@ -58,3 +58,7 @@ main
 
 #idea
 .idea/
+.vscode/tasks.json
+.DS_Store
+.gitignore
+.gitignore
